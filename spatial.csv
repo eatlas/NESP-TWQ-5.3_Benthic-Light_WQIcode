@@ -1,0 +1,25 @@
+Region           ,WaterBody        ,Zone                              ,GBRMPA_Zone
+Cape York        ,Enclosed Coastal ,Enclosed_Coastal_Cape York        ,Enclosed_Coastal_Cape_York
+Wet Tropics      ,Enclosed Coastal ,Enclosed_Coastal_Wet Tropics      ,Enclosed_Coastal_Terrain_NRM
+Dry Tropics      ,Enclosed Coastal ,Enclosed_Coastal_Dry Tropics      ,Enclosed_Coastal_Burdekin_Dry_Tropics_NRM
+Mackay Whitsunday,Enclosed Coastal ,Enclosed_Coastal_Mackay Whitsunday,Enclosed_Coastal_Mackay_Whitsunday_NRM_Group
+Fitzroy          ,Enclosed Coastal ,Enclosed_Coastal_Fitzroy          ,Enclosed_Coastal_Fitzroy_Basin_Association
+Burnett Mary     ,Enclosed Coastal ,Enclosed_Coastal_Burnett Mary     ,Enclosed_Coastal_Burnett_Mary_Regional_Group_for_NRM
+Cape York        ,Open Coastal     ,Open_Coastal_Cape York            ,Open_Coastal_Cape_York
+Wet Tropics      ,Open Coastal     ,Open_Coastal_Wet Tropics          ,Open_Coastal_Terrain_NRM
+Dry Tropics      ,Open Coastal     ,Open_Coastal_Dry Tropics          ,Open_Coastal_Burdekin_Dry_Tropics_NRM
+Mackay Whitsunday,Open Coastal     ,Open_Coastal_Mackay Whitsunday    ,Open_Coastal_Mackay_Whitsunday_NRM_Group
+Fitzroy          ,Open Coastal     ,Open_Coastal_Fitzroy              ,Open_Coastal_Fitzroy_Basin_Association
+Burnett Mary     ,Open Coastal     ,Open_Coastal_Burnett Mary         ,Open_Coastal_Burnett_Mary_Regional_Group_for_NRM
+Cape York        ,Midshelf         ,Midshelf_Cape York                ,Midshelf_Cape_York
+Wet Tropics      ,Midshelf         ,Midshelf_Wet Tropics              ,Midshelf_Terrain_NRM
+Dry Tropics      ,Midshelf         ,Midshelf_Dry Tropics              ,Midshelf_Burdekin_Dry_Tropics_NRM
+Mackay Whitsunday,Midshelf         ,Midshelf_Mackay Whitsunday        ,Midshelf_Mackay_Whitsunday_NRM_Group
+Fitzroy          ,Midshelf         ,Midshelf_Fitzroy                  ,Midshelf_Fitzroy_Basin_Association
+Burnett Mary     ,Midshelf         ,Midshelf_Burnett Mary             ,Midshelf_Burnett_Mary_Regional_Group_for_NRM
+Cape York        ,Offshore         ,Offshore_Cape York                ,Offshore_Cape_York
+Wet Tropics      ,Offshore         ,Offshore_Wet Tropics              ,Offshore_Terrain_NRM
+Dry Tropics      ,Offshore         ,Offshore_Dry Tropics              ,Offshore_Burdekin_Dry_Tropics_NRM
+Mackay Whitsunday,Offshore         ,Offshore_Mackay Whitsunday        ,Offshore_Mackay_Whitsunday_NRM_Group
+Fitzroy          ,Offshore         ,Offshore_Fitzroy                  ,Offshore_Fitzroy_Basin_Association
+Burnett Mary     ,Offshore         ,Offshore_Burnett Mary             ,Offshore_Burnett_Mary_Regional_Group_for_NRM
